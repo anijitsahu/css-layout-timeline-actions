@@ -1,5 +1,5 @@
 # css-layout-timeline-actions
-A Simple Chat Application using [HTML5](https://www.w3schools.com/html/html5_intro.asp) and [CSS3](https://www.w3schools.com/css/). 
+A Simple Timeline along with several actions that are performed in that timeframe Application using [HTML5](https://www.w3schools.com/html/html5_intro.asp) and [CSS3](https://www.w3schools.com/css/). It is a static page. So no databases / storage is there to hold the changes.
 
 [Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout), the new feature of [CSS3](https://www.w3schools.com/css/) is used for layout creation purpose.
 
@@ -7,7 +7,7 @@ This is a *responsive web application* for viewing in both Mobile and Desktop.
 
 
 ## Features
-- This is just a simple timeline and actions page
+- This is just a Simple Timeline and Actions page
 - It follows responsive web design paradigm
 
 ## Installation
@@ -16,8 +16,6 @@ This is a *responsive web application* for viewing in both Mobile and Desktop.
 2. Navigate inside the directory by `cd css-layout-timeline-actions`
 3. Open the `index.html` file using a Web Browser
 
-
- 
 *tested with <img src="screenshots/chrome.png" width="20px" title="Google Chrome">Google Chrome v70 and <img src="screenshots/firefox.png" width="25px" title="Firefox Developer edition">Mozilla Firefox Developer Editon*  
 
 ## Screenshots
