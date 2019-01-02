@@ -1,5 +1,5 @@
 # css-layout-timeline-actions
-A Simple Timeline along with several actions that are performed in that timeframe Application using [HTML5](https://www.w3schools.com/html/html5_intro.asp) and [CSS3](https://www.w3schools.com/css/). It is a static page. So no databases / storage is there to hold the changes.
+A Simple Timeline along with several actions that are performed in that timeframe application using [HTML5](https://www.w3schools.com/html/html5_intro.asp) and [CSS3](https://www.w3schools.com/css/). It is a static page. So no databases / storage is there to hold the changes.
 
 [Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout), the new feature of [CSS3](https://www.w3schools.com/css/) is used for layout creation purpose.
 
@@ -24,8 +24,8 @@ Some screens of the application is given below for better understanding.
 
 Desktop as well as Mobile version of the screenshots are given side by side.
 
-<p> Login Screen <br/> 
- <img src="screenshots/desktop 1.png" width="590px" title="Login screen"/>
- <img src="screenshots/mobile 1.png" width="190px" title="Login screen"/> 
+<p> Initial Screen <br/> 
+ <img src="screenshots/desktop 1.png" width="590px" title="Initial screen"/>
+ <img src="screenshots/mobile 1.png" width="190px" title="Initial screen"/> 
 </p>
  
