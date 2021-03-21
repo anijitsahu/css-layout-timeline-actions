@@ -1,7 +1,7 @@
 # css-layout-timeline-actions
 A Simple Timeline along with several actions that are performed in that timeframe application using [HTML5](https://www.w3schools.com/html/html5_intro.asp) and [CSS3](https://www.w3schools.com/css/). It is a static page. So no databases / storage is there to hold the changes.
 
-[Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout), the new feature of [CSS3](https://www.w3schools.com/css/) is used for layout creation purpose.
+[Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout), the new feature of [CSS3](https://www.w3schools.com/css/) is used for layout creation purpose. [Fontawesome](https://fontawesome.com/) icons are added for aesthetic purpose.
 
 This is a *responsive web application* for viewing in both Mobile and Desktop.
 
