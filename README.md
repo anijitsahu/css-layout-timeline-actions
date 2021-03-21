@@ -9,14 +9,23 @@ This is a *responsive web application* for viewing in both Mobile and Desktop.
 ## Features
 - This is just a Simple Timeline and Actions page
 - It follows responsive web design paradigm
+- It is a static page
+- No JavaScript frameworks are added for *obvious* reason
+- No database / backend is added for *brevity*
 
 ## Installation
 
-1. Clone the repository using `git clone https://github.com/anijitsahu/css-layout-timeline-actions.git` from `Git Bash / Command Prompt`
-2. Navigate inside the directory by `cd css-layout-timeline-actions`
-3. Open the `index.html` file using a Web Browser
+Clone the repository:
+```
+git clone https://github.com/anijitsahu/css-layout-timeline-actions.git
+``` 
+Navigate inside the directory:
+```
+cd css-layout-timeline-actions/dist
+```
+Open the `index.html` file using a Web Browser
 
-*tested with <img src="screenshots/chrome.png" width="20px" title="Google Chrome">Google Chrome v70 and <img src="screenshots/firefox.png" width="25px" title="Firefox Developer edition">Mozilla Firefox Developer Editon*  
+*tested with <img src="screenshots/chrome.png" width="20px" title="Google Chrome">[Google Chrome 89](https://www.google.com/chrome/) and <img src="screenshots/firefox.png" width="25px" title="Firefox Developer edition">[Mozilla Firefox 86](https://www.mozilla.org/en-US/firefox/new/)*  
 
 ## Screenshots
 
